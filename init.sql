@@ -8,9 +8,9 @@ CREATE TABLE IF NOT EXISTS users (
 );
 
 INSERT INTO `users` (username, password, email, created_at, updated_at) VALUES 
-('john', 'fishfw98rwksdjf', 'user1@example.com', '2023-11-12 20:59:47', '2023-11-12 20:59:47'),
-('ane', '12345678ertyuivghjoqiw', 'user2@example.com', '2023-11-12 21:00:09', '2023-11-12 21:00:09');
+('aitor', 'cat9818gshaju', 'aitor@example.com', '2024-01-12 20:59:47', '2024-01-12 20:59:47'),
+('miren', 'bhsbhhdfhsjaklmn', 'miren@example.com', '2024-01-12 21:00:09', '2024-01-12 21:00:09');
 
-GRANT ALL PRIVILEGES ON users.* TO 'juanan'@'%' IDENTIFIED BY 'pasahitza2023';
+GRANT ALL PRIVILEGES ON users.* TO 'sgssi-23'@'%' IDENTIFIED BY 'p4ssw0rd2023';
 FLUSH PRIVILEGES;
 

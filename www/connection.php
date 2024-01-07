@@ -1,8 +1,8 @@
 <?php
 
 $servername = "db";
-$username = "juanan";
-$password = "pasahitza2023"; // yes, this is a fake password
+$username = "sgssi-23";
+$password = "p4ssw0rd2023";
 $dbname = "users";
 
 
